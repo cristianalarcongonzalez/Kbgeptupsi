@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Alarcón Gonzalez</h1>
 <h3 align="center">A passionate frontend developer and data science from Colombia</h3>
 
-- 🔭 I’m currently working on DevZeros
+- 🔭 I’m currently working on Brace Developers
 
 - 🌱 I’m currently learning **React js, Become frontend and data. science**
 
